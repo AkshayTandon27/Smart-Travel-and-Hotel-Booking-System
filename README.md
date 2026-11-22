@@ -4,7 +4,7 @@ A Java Swing desktop application for travel exploration and booking.
 
 ## How to Run (VS Code)
 
-1. Install **JDK 11 or above** from https://adoptium.net  
+1. Install **JDK 11 
    *(The machine currently only has JRE; a JDK is required for compilation.)*
 2. Install the **Extension Pack for Java** from VS Code Marketplace.
 3. Open this folder in VS Code: `File → Open Folder → OOPS_JAVA_PROJECT`
